@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/playstation/shin-megami-tensei-ii)**.
+
 Traducción al **español de España** de *Shin Megami Tensei II* (真・女神転生Ⅱ, PlayStation, 2002),
 la versión de PlayStation del RPG de Atlus de 1994. Décadas después de la Gran Destrucción,
 Tokio es TOKYO Millennium, una ciudad cerrada gobernada por la Iglesia Mesiánica; un luchador del
